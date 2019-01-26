@@ -1,6 +1,6 @@
 import bs4
 import requests
-"""Either use Stock code or ticker symbol which every stock has to create a list. I will use Tata Consultancy Service, 
+"""Either use Stock code or ticker symbol  for every stock and create a list. I will use Tata Consultancy Service, 
 Ashok Leyland and ITC"""
 stock_list = ['ASHOKLEY','TCS','ITC'] #you can use a excel file or csv instead and loop. I am keeping it simple
 
